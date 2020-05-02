@@ -1,0 +1,2 @@
+($WP="undefined"!=typeof $WP?$WP:[]).push({id:"@ta/memx.google-onetap-config",e:["./packages/memx/google-onetap-config/index.jsx"],m:{"./packages/memx/google-onetap-config/index.jsx":function(n,e,o){"use strict";o.r(e),o.d(e,"GOOGLE_PID",function(){return t}),o.d(e,"ENHANCED_GOOGLE_GATE_PID",function(){return g}),o.d(e,"GOOGLE_FLOW",function(){return i}),o.d(e,"LOADER_TRACKING_MODULE",function(){return u});var t=40185,g=40670,i="GOOGLE_ONETAP",u="google_onetap"}}});
+//# sourceMappingURL=memx.google-onetap-config.34f56b676f.js.map

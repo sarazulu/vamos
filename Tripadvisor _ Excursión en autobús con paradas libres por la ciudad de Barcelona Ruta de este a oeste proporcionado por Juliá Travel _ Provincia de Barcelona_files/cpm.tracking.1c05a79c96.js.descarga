@@ -1,0 +1,2 @@
+($WP="undefined"!=typeof $WP?$WP:[]).push({id:"@ta/cpm.tracking",d:["vendor-react-libs"],e:["./packages/cpm/tracking/BoostTrackingContext.jsx"],m:{"./packages/cpm/tracking/BoostTrackingContext.jsx":function(t,e,a){"use strict";a.r(e);var c=a("react").createContext({isBoosted:!1,itemType:"",itemId:""});e.default=c}}});
+//# sourceMappingURL=cpm.tracking.1c05a79c96.js.map

@@ -1,0 +1,2 @@
+($WP="undefined"!=typeof $WP?$WP:[]).push({id:"@ta/reviews.photos",e:["./packages/reviews/photos/PhotosContent.jsx"],m:{"./packages/reviews/photos/PhotosContent.jsx":function(o,t,e){"use strict";e.r(t),t.default=function o(t,e,s){e<0||t<0||(s(),window.open("/PostPhotos-g".concat(t,"-d").concat(e)))}}}});
+//# sourceMappingURL=reviews.photos.e24f67c0a8.js.map

@@ -1,0 +1,2 @@
+($WP="undefined"!=typeof $WP?$WP:[]).push({id:"@ta/lithium.skeleton",d:["vendor-react-libs"],e:["./packages/lithium/skeleton/skeleton.jsx"],m:{"./packages/lithium/skeleton/skeleton.jsx":function(e,t,i){"use strict";i.r(t);var n=i("react");t.default=function e(){return n.createElement("div",null,"TripAdvisor is loading…")}}}});
+//# sourceMappingURL=lithium.skeleton.78936858e8.js.map

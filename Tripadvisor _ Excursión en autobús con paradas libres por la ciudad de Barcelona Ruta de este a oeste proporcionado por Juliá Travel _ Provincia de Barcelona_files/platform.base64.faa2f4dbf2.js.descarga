@@ -1,0 +1,2 @@
+($WP="undefined"!=typeof $WP?$WP:[]).push({id:"@ta/platform.base64",e:["./packages/platform/base64/base64.jsx"],m:{"./packages/platform/base64/base64.jsx":function(e,n,r){"use strict";r.r(n),r.d(n,"encode",function(){return a}),r.d(n,"decode",function(){return c});var t=new TextEncoder,o=new TextDecoder,a=function e(n){return btoa(String.fromCharCode.apply(null,t.encode(n)))},c=function e(n){return o.decode(Uint8Array.from(atob(n),function(e){return e.charCodeAt(0)}))}}}});
+//# sourceMappingURL=platform.base64.faa2f4dbf2.js.map

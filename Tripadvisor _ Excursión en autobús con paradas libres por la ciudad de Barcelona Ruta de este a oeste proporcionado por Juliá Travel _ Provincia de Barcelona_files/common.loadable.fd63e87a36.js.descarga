@@ -1,0 +1,2 @@
+($WP="undefined"!=typeof $WP?$WP:[]).push({id:"@ta/common.loadable",d:["vendor-react-libs"],e:["./packages/common/loadable/Loadable.jsx"],m:{"./packages/common/loadable/Loadable.jsx":function(e,a,o){"use strict";o.r(a);var n=o("react");a.default=function e(a){var o=a.shouldLoad,r=a.children,c=n.useRef(o);return o&&!c.current&&(c.current=!0),c.current?r:null}}}});
+//# sourceMappingURL=common.loadable.fd63e87a36.js.map

@@ -1,0 +1,2 @@
+($WP="undefined"!=typeof $WP?$WP:[]).push({id:"@ta/attractions.shelf/Title.demand",d:["vendor-react-libs"],e:[],m:{"./packages/attractions/shelf/Title.jsx":function(e,t,a){"use strict";a.r(t);var n=a("react");t.default=function e(t){return n.createElement("h2",{className:"_3YVWnI89"},t.children)}}}});
+//# sourceMappingURL=Title.demand.af00fa2ee7.js.map

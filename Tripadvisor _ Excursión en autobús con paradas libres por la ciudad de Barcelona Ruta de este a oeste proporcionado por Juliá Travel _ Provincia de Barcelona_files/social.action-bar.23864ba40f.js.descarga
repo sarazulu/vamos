@@ -1,0 +1,2 @@
+($WP="undefined"!=typeof $WP?$WP:[]).push({id:"@ta/social.action-bar",d:["vendor-react-libs"],e:["./packages/social/action-bar/ActionBar.jsx"],m:{"./packages/social/action-bar/ActionBar.jsx":function(a,c,e){"use strict";e.r(c);var i=e("react");c.default=function a(c){var e=c.children;return i.createElement("div",{className:"_3zWSQib3"},e)}}}});
+//# sourceMappingURL=social.action-bar.23864ba40f.js.map

@@ -1,0 +1,2 @@
+($WP="undefined"!=typeof $WP?$WP:[]).push({id:"@ta/core-ui.responsive-container",d:["vendor-react-libs"],e:["./packages/core-ui/responsive-container/ResponsiveContainer.jsx"],m:{"./packages/core-ui/responsive-container/ResponsiveContainer.jsx":function(e,n,r){"use strict";r.r(n);var i=r("react"),a=r.n(i);n.default=function e(n){var r=n.children;return a.a.createElement("div",{className:"_1anKb-nl"},r)}}}});
+//# sourceMappingURL=core-ui.responsive-container.ebf1740749.js.map

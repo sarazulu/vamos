@@ -1,0 +1,2 @@
+($WP="undefined"!=typeof $WP?$WP:[]).push({id:"@ta/platform.ssr-cache",e:["./packages/platform/ssr-cache/ssr-cache.jsx"],m:{"./packages/platform/ssr-cache/ssr-cache.jsx":function(e,s,a){"use strict";a.r(s),a.d(s,"getMessages",function(){return r}),a.d(s,"getLocalezoneMessages",function(){return t});var c=new Map,n=new Map,r=function e(){return c},t=function e(){return n}}}});
+//# sourceMappingURL=platform.ssr-cache.49252e32a2.js.map

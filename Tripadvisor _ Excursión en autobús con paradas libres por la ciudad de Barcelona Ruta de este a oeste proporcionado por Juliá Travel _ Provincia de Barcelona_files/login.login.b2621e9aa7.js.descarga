@@ -1,0 +1,2 @@
+($WP="undefined"!=typeof $WP?$WP:[]).push({id:"@ta/login.login",d:["vendor-react-libs"],e:["./packages/login/login/useLogin.jsx"],m:{"./packages/login/login/useLogin.jsx":function(n,e,o){"use strict";o.r(e),o.d(e,"Login",function(){return i});var t=o("react"),i=t.createContext(function(){return Promise.resolve(null)});e.default=function n(){return t.useContext(i)}}}});
+//# sourceMappingURL=login.login.b2621e9aa7.js.map

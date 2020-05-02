@@ -1,0 +1,2 @@
+($WP="undefined"!=typeof $WP?$WP:[]).push({id:"@ta/lithium.tripadvisor-shell/TripSans.demand",e:[],m:{"./packages/lithium/tripadvisor-shell/TripSans.css":function(i,s,a){},"./packages/lithium/tripadvisor-shell/TripSans.jsx":function(i,s,a){"use strict";a.r(s),a("./packages/lithium/tripadvisor-shell/TripSans.css"),s.default=function i(){return null}}}});
+//# sourceMappingURL=TripSans.demand.5ccc40dbd5.js.map

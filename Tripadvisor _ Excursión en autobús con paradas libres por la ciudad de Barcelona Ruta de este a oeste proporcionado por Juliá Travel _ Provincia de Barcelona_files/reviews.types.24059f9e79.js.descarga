@@ -1,0 +1,2 @@
+($WP="undefined"!=typeof $WP?$WP:[]).push({id:"@ta/reviews.types",e:["./packages/reviews/types/types.jsx"],m:{"./packages/reviews/types/types.jsx":function(e,s,t){"use strict";t.r(s),t.d(s,"REVIEWS_TAB",function(){return i}),t.d(s,"QUESTIONS_TAB",function(){return n});var i="Reviews",n="Questions"}}});
+//# sourceMappingURL=reviews.types.24059f9e79.js.map
